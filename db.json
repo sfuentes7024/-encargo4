@@ -1,0 +1,20 @@
+[
+    {
+      "title":"Galleta",
+      "price":"1990",
+      "thumbnail":"rojo.png",
+      "id": 1
+    },
+    {
+      "title":"Pan",
+      "price":"1000",
+      "thumbnail":"azul.png",
+      "id": 2
+    },
+    {
+      "title":"Bebida",
+      "price":"2990",
+      "thumbnail":"verde.png",
+      "id": 3
+    }
+ ]
